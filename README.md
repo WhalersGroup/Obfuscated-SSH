@@ -33,7 +33,7 @@ Pin-Priority: 600
 
 ### Ubuntu
 ```bash
-
+sudo apt install software-properties-common
 sudo add-apt-repository ppa:zinglau/obfuscated-openssh
 sudo apt update
 
